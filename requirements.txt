@@ -1,0 +1,8 @@
+speechbrain
+torch
+torchaudio
+customtkinter
+sounddevice
+soundfile
+numpy
+packaging
